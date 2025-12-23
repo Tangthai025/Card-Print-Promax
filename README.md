@@ -4,8 +4,6 @@
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-green)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
-**[English](#english-description) | [ภาษาไทย](#คำอธิบายภาษาไทย)**
-
 ---
 
 <a name="คำอธิบายภาษาไทย"></a>
